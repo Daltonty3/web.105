@@ -2,3 +2,9 @@ Lattiude- location of the light lattiude
 Longitude- location of light longitude
 Country Name- The country that the location was in 
 Alitude- Sea level 
+Mile post- The mile post in witch the light was located on
+Averge speed- the averge speed for the mile post for when the daTA WAS RECORDED 
+Data Last Pulled from RWIS Sensor (UTC)- The time when the last time that data was pulled from that location
+Country number- The number of the country that it was in
+Lane ID- The id lane of withc the traffic was in
+The_Goem- The name and point
